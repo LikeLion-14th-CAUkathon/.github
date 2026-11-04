@@ -15,7 +15,11 @@
 
 **Frontend**
 
+- React · Vite · TypeScript
+
 **Backend**
+
+-
 
 ## 👥 Team
 
